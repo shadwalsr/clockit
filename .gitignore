@@ -1,0 +1,38 @@
+# Environment
+.env
+
+# Snapshots (contain usernames)
+snapshots/
+!snapshots/.gitkeep
+
+# Logs
+*.log
+ghosttrack.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Run tracking
+last_run.json
+
+# Reports
+reports/
+
