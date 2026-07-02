@@ -143,17 +143,6 @@ Verifies accounts flagged as "suspicious deactivations" by sending lightweight p
 
 ---
 
-## ⚠️ Safety Warnings
-
-> **READ THESE CAREFULLY. Ignoring them may result in account restrictions.**
-
-- **🔴 NEVER commit your `.env` file.** It contains your session cookie. The `.gitignore` already excludes it — do not override this.
-- **🔴 NEVER share your `sessionid` with anyone.** It grants full access to your Instagram account.
-- **🔴 NEVER run GhostTrack on accounts you don't own.** This tool is for personal use only.
-- **🟡 Recommended: max 2–4 runs per month.** The 48-hour cooldown is a minimum; spacing runs further apart is safer.
-- **🔴 If you receive ANY checkpoint, challenge, or "suspicious activity" notice from Instagram — STOP using GhostTrack for at least 2–4 weeks.** Do not attempt to bypass challenges.
-
----
 
 ## 🔍 How It Works
 
